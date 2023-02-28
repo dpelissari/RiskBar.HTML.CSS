@@ -1,3 +1,3 @@
-#Barra de pontuação(SCORE) com HTML + CSS
+Barra de risco baseado no Serasa Score com HTML + CSS
 
-Demo: https://dpelissari.github.io/RiskBar-HTML-CSS/
+Demo: https://dpelissari.github.io/Daniel.Pelissari.RiskBar.HTML.CSS/
